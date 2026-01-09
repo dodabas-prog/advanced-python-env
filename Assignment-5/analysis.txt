@@ -1,0 +1,8 @@
+Total lines: 3
+Total words: 9
+Word frequency:
+fun: 3
+hello: 2
+is: 1
+python: 2
+world: 1
